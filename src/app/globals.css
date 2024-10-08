@@ -9,6 +9,9 @@
     --foreground: #ededed;
   }
 }
+h1{
+  color: red;
+}
 
 html,
 body {
